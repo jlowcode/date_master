@@ -23,7 +23,7 @@ O plugin Date Master, surge da possibilidade de customizar o campo DATA em formu
 
 Com o plugin devidamente instalado no Joomla, acesso o joomla e escolha o elemento que deseja inserir este plugin. 
 
-<b>OBS.:</b> Geralmente este plugin é utilizado em campos onde a data precisa ser informada e inserida. Data de evento, Aniversário e etc... 
+<b>OBS.:</b> Geralmente este plugin é utilizado em campos onde a data precisa ser informada e inserida. Data de evento, Aniversário etc. 
 
 <p align="center">
     <img src="images/02.jpeg">
